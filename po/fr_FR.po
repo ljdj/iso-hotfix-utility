@@ -44,8 +44,8 @@ msgstr ""
 
 #: pacman-boot:39
 msgid ""
-"You must be connected to the internet to install Antergos. Click the network"
-" icon in the top bar to configure your connection."
+"Vous devez être connecté à Internet pour installer Antergos. Cliquez sur le réseau"
+" icône dans la barre du haut pour configurer votre connexion."
 msgstr ""
 
 #: pacman-boot:40
@@ -62,20 +62,20 @@ msgstr "Mise à jour terminée"
 
 #: pacman-boot:43
 msgid "Updates were installed sucessfully. Starting Cnchi..."
-msgstr ""
+msgstr "Les mises à jour ont été installées avec succès. À partir de Cnchi ..."
 
 #: pacman-boot:44
 msgid "Cnchi Automatic Updates"
-msgstr ""
+msgstr "Cnchi Mises à jour automatiques"
 
 #: pacman-boot:45
 msgid "Checking for available updates for the Antergos Installer."
-msgstr ""
+msgstr "Vérification des mises à jour disponibles pour le programme d'installation d'Antergos."
 
 #: pacman-boot:46
 msgid "Check was sucessful."
-msgstr ""
+msgstr "Check a réussi."
 
 #: pacman-boot:47
 msgid "You have the latest version. You can proceed with your installation!"
-msgstr ""
+msgstr "Vous avez la dernière version. Vous pouvez procéder à votre installation!"
